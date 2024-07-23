@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Loshavii/Blog.git",
+  
   "name": "blog",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://github.com/Loshavii/Blog.git",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
