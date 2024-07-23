@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.jpg';
 import {Link} from "react-router-dom";
+import './Nav.css'
 
 const BlogNav = () => {
   return (

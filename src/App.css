@@ -2,7 +2,7 @@ body{
   background-color: rgb(195, 222, 222);
 }
 
-nav {
+/* nav {
   position:sticky;
   z-index: 1;
   top: 0;
@@ -44,10 +44,10 @@ nav {
 }
 .search-bar input {
   padding: 5px;
-}
+} */
 
 .card {
-  background-color: #fff;
+  background-color: #ffffff;
   padding: 10px;
   border: 1px solid #ddd;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
